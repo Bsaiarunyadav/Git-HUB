@@ -8,5 +8,5 @@ https://www.youtube.com/playlist?list=PLbeIORXauosi_FRv0Uy5ZUvpUQ7aQr5Vh </br>
 Public IP vs Private IP </br>
 Microservices advantages </br>
 Monolithic vs Microservices </br>
-how Firewall works </br>
+How Firewall works </br>
 How internet works -> just understand how the request flow </br>
